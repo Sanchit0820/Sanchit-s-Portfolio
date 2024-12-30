@@ -9,7 +9,7 @@ Data excites me a lot. I have always been a "numbers" guy, especially since I am
 
 My biggest achievement to date is leading a team of nine people in my college's final year Predictive Modeling course project to develop a predictive model for detecting heart disease using Machine Learning. I demonstrated leadership abiities that I didn't know I possessed throughout the development of that project.
 
-# [Project 1: Website Traffic Analysis and Optimization]
+# [Project 1: Website Traffic Analysis and Optimization](https://github.com/Sanchit0820/Web-Traffic-Analysis.git)
 ...
 * Analyzed web traffic data using Python libraries **Pandas** and **SciPy** to uncover actionable insights.
 * Explored event distribution patterns to understand **pageviews**, **clicks**, and **previews**.
